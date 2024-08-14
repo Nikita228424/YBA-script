@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/10114a9d-b550-4f8a-85cb-723865b1e7a6)
+
 ## YBA: A Deeper Dive into the Stands
 
 This repository contains a script designed to enhance your experience in YBA (Your Bizarre Adventure), the popular Roblox game inspired by the world of JoJo's Bizarre Adventure.  It's not about gaining an unfair advantage, it's about gaining a deeper understanding of the game's mechanics and environment.
